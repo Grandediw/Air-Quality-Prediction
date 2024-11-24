@@ -148,7 +148,7 @@ This version implements air quality prediction using rolling window features to 
    Predictions and pipeline details for the version without rolling window features can be accessed [here](https://jacopodallafior.github.io/Air_quality/air-quality/).  
 
 - **With Rolling Window Features:**  
-   Explore the enhanced rolling window feature pipeline [here](https://jacopodallafior.github.io/Air_Quality_Rolling_Window/air-quality/).  
+   Explore the enhanced rolling window feature pipeline [here](https://grandediw.github.io/Air-Quality-Prediction/air-quality/).  
 
 ---
 
